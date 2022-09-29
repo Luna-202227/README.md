@@ -1,0 +1,50 @@
+EDM 03 Asegurar la Optimización del Riesgo
+APO 12 Gestionar el Riesgo
+
+BAI 09 Gestionar los Activos
+
+DSS 04 Gestionar la Continuidad
+
+DSS 05 Gestionar Servicios de Seguridad
+firmar hoja de vacaciones 
+Actas 
+Procedimientos 
+Políticas
+contratos
+
+
+Tema 1: Introducción a R
+•	Plataforma RStudio
+•	Objetos de R, funciones y bucles
+•	Librerías dplyr, readr y plotly
+•	Manejo de conjuntos y dataframes
+Tema 2: Introducción a los GIS
+•	Proyecciones cartográficas
+•	Sistemas de pago o registrados: Google Maps
+•	Sistemas abiertos: IGN – qgis – otros
+•	Webservices geográficos: wms – kml
+•	Webservices españoles: IGN – CartoCiudad
+•	Información del INE: secciones censales
+Tema 3: Implementación en R
+•	Dataframes con datos de riesgos
+•	Geocodificación de una dirección
+•	Unidades administrativas de una dirección
+•	Mapa alrededor de una coordenada
+•	Aplicar puntos en un mapa
+•	Uso de secciones censales
+Tema 4: Aplicaciones actuariales
+•	Distribución geográfica de clientes
+•	Análisis de la cuota de mercado
+•	Distribución geográfica de riesgos
+•	Valoración de cúmulos
+
+Incidente debido al acceso indebido a los sistemas por parte de los usuarios ante la asignación de roles inadecuados.
+
+
+
+
+
+
+
+
+
